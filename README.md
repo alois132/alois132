@@ -11,6 +11,8 @@
 
 🌱 I’m currently learning dgut
 
+😂 Some items belong to my openclaw, for exmaple, growth-tracker.
+
 🤔 I master Golang
 
 📫 My blog is [here](https://kkb-1.github.io/)
