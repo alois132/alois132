@@ -15,7 +15,7 @@
 
 🤔 I master Golang
 
-📫 My blog is [here](https://kkb-1.github.io/)
+📫 My blog is [here](https://alois132.github.io/)
 
 ## My Skills
 
